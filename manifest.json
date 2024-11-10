@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mo Bazaar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "mobazaar",
+  "start_url": "./",
+  "theme_color": "#6d33a9",
+  "icons": [
+    {
+      "src": "mobazaar/assets/Mo-Bazaar-Logo.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg"
+    }
+  ],
+  "description": "Install the Mobazaar web app on your device for instant access to a vast marketplace of pre-owned goods. Whether you're buying or selling, our app offers seamless navigation, real-time updates, and secure transactions, all from the comfort of your preferred device.",
+  "categories": [
+    "shopping"
+  ],
+  "id": "mobazaar"
+}
